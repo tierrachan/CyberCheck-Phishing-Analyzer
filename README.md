@@ -25,6 +25,17 @@ El proyecto se rige bajo la iniciativa de ingeniería **CDIO** (*Concebir, Dise�
 - **Gestor de paquetes:** pnpm
 - **Control de versiones:** Git / GitHub
 
+  👥 Autores
+Danny Yosip Quimbaya Anaya
+
+Jhonatan Martínez Méndez
+
+Institución: Universidad Nacional Abierta y a Distancia (UNAD)
+
+Escuela: Ciencias Básicas, Tecnología e Ingeniería (ECBTI)
+
+Curso: Proyecto de Grado (202016907)
+
 ## 🚀 Ejecución en entorno local
 
 Para visualizar el prototipo en tu equipo, asegúrate de tener instalado [Node.js](https://nodejs.org/) y [pnpm](https://pnpm.io/), y ejecuta los siguientes comandos:
@@ -41,5 +52,3 @@ pnpm install
 
 # 4. Iniciar el servidor de desarrollo
 pnpm run dev
-
-
