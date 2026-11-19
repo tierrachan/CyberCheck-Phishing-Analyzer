@@ -41,3 +41,5 @@ pnpm install
 
 # 4. Iniciar el servidor de desarrollo
 pnpm run dev
+
+
