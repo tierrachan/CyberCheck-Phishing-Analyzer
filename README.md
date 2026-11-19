@@ -26,8 +26,8 @@ El proyecto se rige bajo la iniciativa de ingeniería **CDIO** (*Concebir, Dise�
 - **Control de versiones:** Git / GitHub
 
   👥 Autores
+  
 Danny Yosip Quimbaya Anaya
-
 Jhonatan Martínez Méndez
 
 Institución: Universidad Nacional Abierta y a Distancia (UNAD)
